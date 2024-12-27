@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\BlogApp\BlogApp.DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
