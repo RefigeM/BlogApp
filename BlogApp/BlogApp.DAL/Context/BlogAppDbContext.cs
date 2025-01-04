@@ -14,4 +14,6 @@ public class BlogAppDbContext : DbContext
 		base.OnModelCreating(modelBuilder);
 	}
 	public DbSet<Category> Categories { get; set; }
+	public DbSet<User> Users { get; set; }
+
 }

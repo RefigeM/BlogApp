@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {}
+    "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "projectName": "BlogApp.Core",
-        "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\BlogApp\\BlogApp\\BlogApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0-preview1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0-preview1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"

@@ -1,38 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.dal\\migrations\\20241227200630_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\migrations\\20241227200630_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.dal\\blogapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\blogapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.api\\blogapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\externalservices\\implements\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\externalservices\\implements\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\blogapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\blogapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\dtos\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6D637C-0A56-420B-A2A4-90F020D044CC}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D2D999E-A99E-4B83-900E-8E6472E6AA77}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D2D999E-A99E-4B83-900E-8E6472E6AA77}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\externalservices\\interfaces\\ijwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\externalservices\\interfaces\\ijwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\blogapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\blogapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.api\\blogapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62706914-9DA7-4677-A1D0-C9A33BB898C5}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\blogapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\validators\\uservalidators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\validators\\uservalidators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\blogapp\\blogapp\\blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705CA3D8-91B6-48A9-824C-87FFFD35CAB4}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +90,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241227200630_Init.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\Migrations\\20241227200630_Init.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Migrations\\20241227200630_Init.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\Migrations\\20241227200630_Init.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Migrations\\20241227200630_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "BlogApp.BL\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T20:06:31.949Z"
+              "WhenOpened": "2025-01-04T10:39:25.514Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Program.cs",
               "RelativeDocumentMoniker": "BlogApp.API\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Program.cs",
               "RelativeToolTip": "BlogApp.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T18:14:06.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.API\\appsettings.json",
-              "RelativeDocumentMoniker": "BlogApp.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.API\\appsettings.json",
-              "RelativeToolTip": "BlogApp.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T18:08:38.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlogApp.API.csproj",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
-              "RelativeDocumentMoniker": "BlogApp.API\\BlogApp.API.csproj",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
-              "RelativeToolTip": "BlogApp.API\\BlogApp.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T18:08:30.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T18:04:20.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T18:02:49.116Z"
+              "WhenOpened": "2025-01-04T10:37:10.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BlogAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDbContext.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Context\\BlogAppDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDbContext.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Context\\BlogAppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BlogApp.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T18:01:52.062Z"
+              "WhenOpened": "2025-01-04T10:36:12.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlogApp.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\BlogApp.DAL.csproj",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
-              "RelativeToolTip": "BlogApp.DAL\\BlogApp.DAL.csproj",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\ServiceRegistration.cs",
+              "RelativeToolTip": "BlogApp.API\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:23:34.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\DTOs\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\Options\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\DTOs\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:10:06.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "RelativeToolTip": "BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAEBdwB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:00:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BlogApp.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:44:30.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Controllers\\AuthsController.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Controllers\\AuthsController.cs",
+              "RelativeToolTip": "BlogApp.API\\Controllers\\AuthsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:31:27.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\appsettings.json",
+              "RelativeToolTip": "BlogApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T10:11:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\ExternalServices\\Interfaces\\IJwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\ExternalServices\\Interfaces\\IJwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\ExternalServices\\Interfaces\\IJwtTokenHandler.cs",
+              "RelativeToolTip": "BlogApp.BL\\ExternalServices\\Interfaces\\IJwtTokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:59:36.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:17:54.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlogApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlogApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T09:37:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlogApp.API",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
+              "RelativeDocumentMoniker": "BlogApp.API\\BlogApp.API.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
+              "RelativeToolTip": "BlogApp.API\\BlogApp.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T09:37:25.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIBZwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:45:45.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogApp.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
+              "RelativeDocumentMoniker": "BlogApp.API\\BlogApp.API.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
+              "RelativeToolTip": "BlogApp.API\\BlogApp.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T18:01:49.937Z"
+              "WhenOpened": "2025-01-04T08:50:32.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:27:02.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Validators\\UserValidators\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Validators\\UserValidators\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Validators\\UserValidators\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "BlogApp.BL\\Validators\\UserValidators\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:18:45.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogApp.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\BlogApp.BL.csproj",
+              "RelativeDocumentMoniker": "BlogApp.BL\\BlogApp.BL.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\BlogApp.BL.csproj",
+              "RelativeToolTip": "BlogApp.BL\\BlogApp.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T08:30:28.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:45:56.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\BlogApp\\BlogApp\\BlogApp.BL\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "BlogApp.BL\\Helpers\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:30:47.214Z"
             }
           ]
         }

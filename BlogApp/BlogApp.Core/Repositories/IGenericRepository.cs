@@ -10,7 +10,7 @@ public interface IGenericRepository<T> where T : BaseEntity, new()
 	Task<bool> IsExistAsync(int id);
 	Task AddAsync(T entity);
 	void Delete(T entity);
-	Task? DeleteAsync(T entity);
+	Task DeleteAsync(int id);
 	Task<int> SaveAsync();
 
 }
